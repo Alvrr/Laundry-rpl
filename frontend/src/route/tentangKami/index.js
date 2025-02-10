@@ -39,7 +39,7 @@ function hubungiBtn(){
       </header>
 
       {/* Tentang Kami Section */}
-      <section className="flex-grow py-6" id="about">
+      <section className="flex-grow py-20" id="about">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-blue-600 mb-8 text-center">
             Tentang Kami
@@ -48,9 +48,8 @@ function hubungiBtn(){
             {/* Gambar atau Ilustrasi */}
             <div className="md:w-1/2 mb-6 md:mb-0">
               <img
-                src="Proyek5.png"
+                src="logo.png"
                 alt="Tentang Kami"
-                className="rounded-lg "
               />
             </div>
 
@@ -73,7 +72,6 @@ function hubungiBtn(){
                 Jadi, percayakan pakaian Anda kepada kami, dan nikmati kemudahan
                 serta hasil yang memuaskan!
               </p>
-
             </div>
           </div>
         </div>
